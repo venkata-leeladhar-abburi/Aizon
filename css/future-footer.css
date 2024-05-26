@@ -1,0 +1,226 @@
+
+/*** 
+
+====================================================================
+	Main Footer
+====================================================================
+
+***/
+
+.main-footer{
+	position:relative;
+	background-color: #02082c;
+}
+
+.main-footer .widgets-section{
+	position:relative;
+	padding: 80px 0px 30px;
+}
+
+.main-footer .logo{
+	position:relative;
+	margin-bottom: 30px;
+}
+
+.footer_list{
+	position: relative;
+}
+
+.footer_list li{
+	position: relative;
+	color: #ffffff;
+	margin-bottom: 20px;
+	padding-left: 35px;
+	font-size: 17px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.footer_list li .icon{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	font-family: "flaticon_future-flat";
+	background-image: var(--base-gradient);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    --base-gradient: linear-gradient( 90deg, rgb(136,232,233) 0%, rgb(249,215,143) 35%, rgb(225,122,245) 65%, rgb(140,146,246) 100%);
+}
+
+.footer-nav_list{
+	position: relative;
+	padding-bottom: 20px;
+	border-bottom: 2px solid rgba(255,255,255,0.20);
+}
+
+.footer-nav_list li{
+	position: relative;
+	margin-right:35px;
+	display: inline-block;
+}
+
+.footer-nav_list li a{
+	position: relative;
+	color: #ffffff;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+.footer-nav_list li a:hover{
+	color: #8DE7E5;
+}
+
+.footer-nav_list li:last-child{
+	margin-right: 0px;
+}
+
+.footer-bottom{
+	position: relative;
+	padding: 0px 0px 25px;
+}
+
+.footer-bottom .copyright{
+	position: relative;
+	color: #ffffff;
+	font-size: 18px;
+}
+
+.footer_socials{
+	position: relative;
+}
+
+.footer_socials a{
+	position: relative;
+	color: #ffffff;
+	font-size: 16px;
+	margin-left: 20px;
+	font-family: 'Font Awesome 5 Brands';
+}
+
+.footer_socials a:hover{
+	color: #8DE7E5;
+}
+
+/*** 
+
+====================================================================
+	Footer Style Two
+====================================================================
+
+***/
+
+.footer-style-two{
+	position: relative;
+	background-color: #181725;
+}
+
+.footer-style-two h5{
+	position: relative;
+	color: #ffffff;
+	font-weight: 800;
+	text-decoration: underline;
+	margin-bottom: 20px;
+}
+
+.footer-style-two .widgets-section{
+	position: relative;
+	padding: 90px 0px 70px;
+}
+
+.footer-style-two .footer-column{
+	position: relative;
+	margin-bottom: 30px;
+}
+
+.footer-two_heading{
+	position: relative;
+	color: #ffffff;
+	font-weight: 800;
+	margin-bottom: 15px;
+}
+
+.footer-two_text{
+	position: relative;
+	color: #d4d4d4;
+	font-size: 18px;
+	line-height: 26px;
+	margin-bottom: 25px;
+}
+
+.footer-two_email{
+	position: relative;
+	font-weight: 600;
+	font-size: 21px;
+	display: inline-block;
+	background-image: var(--base-gradient);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    --base-gradient: linear-gradient( 90deg, #3A86F5 0%, #9346F5 35%, #EA3592 65%, #feb702 100%);
+}
+
+
+.footer-nav_list-two{
+	position: relative;
+}
+
+.footer-nav_list-two li{
+	position: relative;
+	margin-bottom:10px;
+}
+
+.footer-nav_list-two li a{
+	position: relative;
+	color: #e3e3e3;
+	font-size: 17px;
+	text-transform: capitalize;
+}
+
+.footer-nav_list-two li a:hover{
+	color: #8DE7E5;
+}
+
+.footer-nav_list-two li:last-child{
+	margin-right: 0px;
+}
+
+.footer-two_socials{
+	position: relative;
+}
+
+.footer-two_socials li{
+	position: relative;
+}
+
+.footer-two_socials li .icon{
+	position: absolute;
+	left: 0px;
+	top: 6px;
+	line-height: 1em;
+}
+
+.footer-two_socials li a{
+	position: relative;
+	font-size: 20px;
+	font-weight: 700;
+	padding-left: 30px;
+}
+
+.footer-two_logo{
+	position: relative;
+	padding: 25px 0px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	border-top: 2px solid rgba(255,255,255,0.10);
+	border-bottom: 2px solid rgba(255,255,255,0.10);
+}
+
+.footer-two_copyright{
+	position: relative;
+	font-size: 15px;
+	color: #e8e8e8;
+}
